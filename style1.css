@@ -1,0 +1,141 @@
+.body {
+    background-color: #808080; /* o cualquier otro tono de gris que prefieras */
+  }
+
+.navbar-brand {
+    padding: 0.5rem;
+  }
+  
+  .navbar-brand img {
+    margin-right: 0.5rem;
+  }
+  
+  .navbar-nav li {
+    margin-right: 1rem;
+  }
+  
+  .dropdown-menu {
+    background-color: #343a40;
+  }
+  
+  .dropdown-menu a {
+    color: #f8f9fa;
+  }
+  
+  .dropdown-menu a:hover {
+    background-color: #f8f9fa;
+    color: #343a40;
+  }
+
+
+
+  .container {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .list-group-item {
+    background-color: #444;
+    border-color: #333;
+    color: #fff;
+  }
+  
+  .input-group-text {
+    background-color: #555;
+    border-color: #333;
+    color: #fff;
+  }
+  
+  .form-control {
+    background-color: #666;
+    color: #fff;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #fff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+    color: #fff;
+  }
+
+  
+
+
+  .container {
+    background-color: #444444;
+    color: #ffffff;
+    padding: 20px;
+  }
+  
+  .list-group-item {
+    background-color: #777777;
+    border-color: #444444;
+    color: #ffffff;
+  }
+  
+  .input-group-text {
+    background-color: #ff0000;
+    border-color: #444444;
+    color: #ffffff;
+  }
+  
+  .form-control {
+    background-color: #c4bebe;
+    color: #000000;
+  }
+  
+  .btn-info {
+    background-color: #38b854;
+    border-color: #444444;
+    color: #ffffff;
+  }
+  
+  .btn-warning {
+    background-color: #1497a0;
+    border-color: #a70a0a;
+    color: #ffffff;
+  }
+  
+  .btn-warning:hover {
+    background-color: #a70f0f;
+    border-color: #b40e0e;
+    color: #ffffff;
+  }
+  
+  .btn-danger {
+    background-color: #b60d0d;
+    border-color: #a70c0c;
+    color: #ffffff;
+  }
+  
+  .btn-danger:hover {
+    background-color: #ac0d0d;
+    border-color: #b30d0d;
+    color: #ffffff;
+  }
+  
+  .footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+ }
+ footer p {
+    margin: 0;
+ }
+ 
+ /* Estilos para pantallas más pequeñas */
+ @media only screen and (max-width: 600px) {
+    footer {
+       font-size: 14px;
+       padding: 15px 0;
+    }
+ }
+  
